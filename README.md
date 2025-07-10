@@ -33,10 +33,6 @@ _No projects added yet — stay tuned!_
 
 <!-- GitHub Stats -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKN-Antony&show_icons=true&theme=github_dark" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKN-Antony&theme=github-dark-blue" alt="GitHub streak"/>
-</p>
 
 ---
 
