@@ -1,46 +1,54 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hi,%20I'm%20Anthony%20Kamau%20👋&fontSize=40&fontColor=FFFFFF" alt="welcome banner"/>
-</p>
+# Anthony Kamau  
+### Software Engineer in the Making  
 
-<!-- Introduction -->
-## 👨‍💻 About Me
-
-Hi there! I'm **Anthony Kamau**, a passionate learner in the **ALX Software Engineering Program**. I embarked on this journey because I wanted to solve real-world problems with technology, and I am fascinated by how software can change lives.
-
-💡 What inspires me most is **building solutions that empower people and open-source collaboration**.
-
-🎯 **My mission** is to *become a full-stack developer who creates meaningful digital products* and that's why I'm particularly drawn to working on:
-- AI tools and APIs.
+![Profile Banner](code.jpg)
 
 ---
 
-<!-- Skills Section -->
-## 🧰 Tech Stack & Tools
+## My Journey  
+
+It all began with a simple question: *"How does the internet know what I'm searching for?"* That curiosity ignited my passion for technology. My first line of code - `print("Hello, World!")` - was the spark that started everything.  
+
+Today, I'm actively developing my skills to transition from asking how things work to building systems that solve real problems. Every day brings new opportunities to:  
+- Break down complex systems into understandable components  
+- Write clean, efficient code that makes a difference  
+- Collaborate with others to create meaningful solutions  
+
+---
+
+## Technical Skills  
+
+**Core Languages:**  
+Python · JavaScript · HTML/CSS  
+
+**Tools & Frameworks:**  
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,python,django,git,github,linux,vscode" />
-</p>
+</p> 
+
+**Currently Learning:**  
+React · Node.js · API Design  
 
 ---
 
-<!-- Projects Section -->
-## 🚀 Featured Projects
+## Current Projects  
 
-_No projects added yet — stay tuned!_
+*🔧 Building an automated task management system*  
+*🌐 Developing a personal knowledge base application*  
+*📊 Creating data visualization tools*  
 
----
-
-<!-- GitHub Stats -->
-
+*(Project details coming soon as I progress in my learning journey)*  
 
 ---
 
 
+## Let's Connect  
 
----
+I'm always interested in:  
+- Collaborating on meaningful projects  
+- Discussing system design concepts  
+- Learning from experienced developers  
 
-<!-- Footer Message -->
-<p align="center">
-  ✨ Let's build something amazing together!
-</p>
+✨ *The best way to predict the future is to code it.* ✨
