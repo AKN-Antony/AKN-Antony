@@ -1,7 +1,8 @@
 # Anthony Kamau  
 ### Software Engineer in the Making  
 
-![Profile Banner](./assets/code.jpg)
+
+<img src="./assets/code.jpg" alt="Description" width="300" height="200">
 
 ---
 
