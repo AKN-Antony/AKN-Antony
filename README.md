@@ -2,7 +2,7 @@
 ### Software Engineer in the Making  
 
 
-<img src="./assets/code.jpg" alt="Description" width="500" height="2500">
+<img src="./assets/code.jpg" alt="Description" width="500" height="500">
 
 ---
 
