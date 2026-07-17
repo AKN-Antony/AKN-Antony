@@ -1,8 +1,10 @@
 <div align="center">
   <h1>👋 Hi, I'm Anthony Kamau</h1>
-  <h3>Software Engineer in the Making</h3>
   
-  <img src="./assets/code.jpg" alt="Anthony Kamau Code Banner" width="100%" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Software+Engineer+in+the+Making;Python+%26+JavaScript+Developer;Always+Learning+%26+Building" alt="Typing SVG" /></a>
+  
+  <br/>
+  <img src="./assets/banner.jpg" alt="Anthony Kamau Code Banner" width="100%" style="border-radius: 10px;" />
 </div>
 
 ---
@@ -35,11 +37,13 @@ React · Node.js · API Design
 
 ## 📈 Current Projects  
 
-- 🔧 **Automated Task Management System** — *Building an automated task management system*  
-- 🌐 **Personal Knowledge Base Application** — *Developing a personal knowledge base application*  
-- 📊 **Data Visualization Tools** — *Creating data visualization tools*  
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🚥 Status |
+|---|---|---|---|
+| 🔧 **Automated Task Mgmt System** | A comprehensive system to automate daily tasks and workflows. | `Python`, `Django` | 🚧 In Progress |
+| 🌐 **Knowledge Base App** | A personal wiki for storing and organizing learning materials. | `React`, `Node.js` | 🚧 In Progress |
+| 📊 **Data Visualization Tools** | Interactive dashboards to visualize complex datasets. | `Python`, `Pandas` | 🚧 In Progress |
 
-> 💡 *(Project details coming soon as I progress in my learning journey)*  
+> 💡 *(Project links and deeper details coming soon as I progress in my learning journey!)*  
 
 ---
 
